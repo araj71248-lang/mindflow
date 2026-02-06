@@ -1,0 +1,9 @@
+
+{
+  "name": "MindFlow",
+  "description": "A soothing AI-powered companion for students dealing with exam stress. Scan handwritten journals or type your thoughts to receive empathetic support, calming exercises, and real-time conversation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
