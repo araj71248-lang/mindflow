@@ -6,7 +6,7 @@
   "homepage": "https://araj71248-lang.github.io/mindflow",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc -b && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
