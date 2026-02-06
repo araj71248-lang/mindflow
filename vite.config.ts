@@ -8,6 +8,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
   
   return {
+    base: "/mindflow/",
     plugins: [react()],
     define: {
       // If you are pasting your key directly here, replace 'env.API_KEY || ...' 
