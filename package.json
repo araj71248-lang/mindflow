@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://araj71248-lang.github.io/mindflow",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
